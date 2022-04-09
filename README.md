@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RexSanos&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=RexSanos&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RexSanos&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RexSanos/RexSanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
