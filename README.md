@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RexSanos&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RexSanos&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=RexSanos/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=RexSanos/badges)
